@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/paralect/static/css/main.97278390.chunk.css",
+    "main.css": "/paralect/static/css/main.9c5de797.chunk.css",
     "main.js": "/paralect/static/js/main.3317b202.chunk.js",
     "main.js.map": "/paralect/static/js/main.3317b202.chunk.js.map",
     "runtime-main.js": "/paralect/static/js/runtime-main.c57085f4.js",
@@ -8,15 +8,15 @@
     "static/js/2.13f96e6f.chunk.js": "/paralect/static/js/2.13f96e6f.chunk.js",
     "static/js/2.13f96e6f.chunk.js.map": "/paralect/static/js/2.13f96e6f.chunk.js.map",
     "index.html": "/paralect/index.html",
-    "precache-manifest.6a408db5288476620231131baf9767eb.js": "/paralect/precache-manifest.6a408db5288476620231131baf9767eb.js",
+    "precache-manifest.106d6d967c2036cc4b07550f7d3af6df.js": "/paralect/precache-manifest.106d6d967c2036cc4b07550f7d3af6df.js",
     "service-worker.js": "/paralect/service-worker.js",
-    "static/css/main.97278390.chunk.css.map": "/paralect/static/css/main.97278390.chunk.css.map",
+    "static/css/main.9c5de797.chunk.css.map": "/paralect/static/css/main.9c5de797.chunk.css.map",
     "static/js/2.13f96e6f.chunk.js.LICENSE.txt": "/paralect/static/js/2.13f96e6f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c57085f4.js",
     "static/js/2.13f96e6f.chunk.js",
-    "static/css/main.97278390.chunk.css",
+    "static/css/main.9c5de797.chunk.css",
     "static/js/main.3317b202.chunk.js"
   ]
 }
