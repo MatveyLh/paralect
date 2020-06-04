@@ -1,0 +1,11 @@
+body nav {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px;
+    align-items: center;
+}
+body nav a {
+    padding: 10px;
+    font-size: 13px;
+    color: #000000;
+}

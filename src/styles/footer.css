@@ -1,0 +1,33 @@
+body footer {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+}
+body footer .footer-info {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15px;
+}
+body footer .footer-info div {
+    display: flex;
+    align-items: center;
+}
+body footer .country {
+    padding-left: 25px;
+}
+body footer .footer-info div p {
+    padding: 5px 10px;
+}
+body footer .footer-info div a {
+    text-decoration: none;
+    color: #000000;
+}
+
+@media all and (max-width: 560px) {
+    footer {
+        display: none!important;
+    }
+}
